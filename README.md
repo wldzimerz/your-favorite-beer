@@ -1,24 +1,31 @@
 # vue-beer-test
+## This project was created as part of a test task.
 
-## Project setup
+
+> This app will determine the type of your favorite beer.
+> Also you can use it if you can't choose a drink at the bar with friends!
+
+### You can wiew site deploy [this](https://your-favorite-beer.netlify.app/#/)
+
+#### Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 yarn build
 ```
 
-### Lints and fixes files
+#### Lints and fixes files
 ```
 yarn lint
 ```
 
-### Customize configuration
+#### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
